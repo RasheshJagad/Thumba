@@ -20,6 +20,11 @@
 </head>
 
 <body>
+<ul>
+	<li>Full documentation on <a href="http://www.myjqueryplugins.com/Thumba">MyjQueryPlugins.com/Thumba</a></li>
+	<li>Live demonstration on <a href="http://www.myjqueryplugins.com/Thumba/demo">Thumba demonstration page</a></li>
+</ul>
+<h1>Thumba plugin</h1>
 	<div class="ThumbaGallery">
 		<ul class="thumba">
 			<li><a href="images/big/picasso1.jpg" class="thumba_default" title="Legend of the image"><img src="images/thumbs/picasso1.jpg" alt="Picasso Maestro" /></a></li>
